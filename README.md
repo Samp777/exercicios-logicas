@@ -1,2 +1,3 @@
 # exercicios-logicas
-desgarga de codicos de exe .kkksskskss
+desgarga de codigos
+de exe .kkksskskss
